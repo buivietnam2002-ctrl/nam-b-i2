@@ -1,0 +1,9 @@
+{
+  "appId": "vn.cadsurvey2d.app",
+  "appName": "CAD Survey 2D",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
