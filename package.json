@@ -1,0 +1,15 @@
+{
+  "name": "cad-survey-2d",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "mkdir -p www && cp index.html manifest.json sw.js www/"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/filesystem": "^6.0.1",
+    "@capacitor/share": "^6.0.2"
+  }
+}
